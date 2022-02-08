@@ -1,4 +1,4 @@
-AOS Assignment 1 - File Explorer
+AOS- File Explorer
 =================================
 
 1. To run the code, run the following commands :
